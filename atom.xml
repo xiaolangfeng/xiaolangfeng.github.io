@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaolangfeng.github.io</id>
     <title>Gridea</title>
-    <updated>2022-02-18T09:28:55.254Z</updated>
+    <updated>2022-02-18T09:33:27.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaolangfeng.github.io"/>
     <link rel="self" href="https://xiaolangfeng.github.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://xiaolangfeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[终于成功了]]></title>
-        <id>https://xiaolangfeng.github.io/post/sa-dan-fa/</id>
-        <link href="https://xiaolangfeng.github.io/post/sa-dan-fa/">
+        <title type="html"><![CDATA[终于阔以了]]></title>
+        <id>https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/</id>
+        <link href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">
         </link>
-        <updated>2022-02-17T14:28:19.000Z</updated>
-        <content type="html"><![CDATA[<p>整整花了我三天！！！</p>
+        <updated>2022-02-18T09:32:36.000Z</updated>
+        <content type="html"><![CDATA[<p>绝了，整整三天！！</p>
 ]]></content>
     </entry>
 </feed>
