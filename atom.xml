@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
-    <title>Gridea</title>
-    <updated>2022-02-18T13:55:13.452Z</updated>
+    <id>https://xiaolangfeng.github.io</id>
+    <title>小丰</title>
+    <updated>2022-02-19T11:07:06.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <link rel="alternate" href="https://xiaolangfeng.github.io"/>
+    <link rel="self" href="https://xiaolangfeng.github.io/atom.xml"/>
+    <subtitle>一步一个脚印</subtitle>
+    <logo>https://xiaolangfeng.github.io/images/avatar.png</logo>
+    <icon>https://xiaolangfeng.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小丰</rights>
     <entry>
-        <title type="html"><![CDATA[终于阔以了]]></title>
-        <id>http://localhost:4000/post/zhong-yu-kuo-yi-liao/</id>
-        <link href="http://localhost:4000/post/zhong-yu-kuo-yi-liao/">
+        <title type="html"><![CDATA[Gridea+github+github desktop博客搭建指北]]></title>
+        <id>https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/</id>
+        <link href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">
         </link>
         <updated>2022-02-18T09:32:36.000Z</updated>
-        <content type="html"><![CDATA[<p>绝了，整整三天！！</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>如果说语言的魅力与他人对话，那么文字魅力，就是倾听自己的声音！</p>
+</blockquote>
+<p><em>在开始写第一篇博客之前，请允许我简单介绍一下关于我的博客。第一次产生搭建个人博客的想法的时候是在大学，在对博客有了初步的了解之后，觉得必须要拥有自己的一个博客，用来在充斥着带节奏，蹭热点的信息流社会保留自己的一点思考，以及，记录个人的成长和技术积累。在搭建个人博客过程中，遇到许多坑，为避免有兴趣的同学掉坑，现把我的搭建方法分享给大家。</em><img src="https://xiaolangfeng.github.io/post-images/1645262493716.jpg" alt="" loading="lazy"></p>
+<h2 id="why-创建博客"><strong>why 创建博客</strong></h2>
+<ol>
+<li>在博客的载体，用文字的方式，记录自己的一点思考和成长。And,满足内心小小的极客精神。</li>
+<li>写一些技术文章，共享资源。</li>
+</ol>
+<h2 id="how-创建博客"><strong>How 创建博客</strong></h2>
+<ol>
+<li>步骤一 准备工具（我采用的是Gridea+github+github desktop）<br>
+-本地安装<a href="https://gridea.dev/">Gridea</a> 😀<br>
+-注册一个<a href="https://github.com/">GitHub</a>账号,创建新的仓库和token🔑</li>
+<li>步骤二  配置Gridea<br>
+网上的教程有很多，这里不赘述，详见<a href="https://sspai.com/post/57164">Gridea本地配置</a></li>
+</ol>
+<h3 id="下载安装github-desktop">下载安装github desktop</h3>
+<ul>
+<li>👉 <a href="https://desktop.github.com/">github desktop下载地址</a></li>
+<li>👉<a href="https://docs.github.com/cn/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop">github desktop使用教程</a></li>
+</ul>
+<h2 id="搭建过程中你可能会遇到的关键问题"><strong>搭建过程中你可能会遇到的关键问题</strong>⁉</h2>
+<p>gridea无法同步的问题，<a href="https://blog.gd1214b.icu/post/F2_C5EVQh/">解决方法</a></p>
+<h2 id="关联阅读"><strong>关联阅读</strong></h2>
+<ol>
+<li><a href="https://sspai.com/post/57164">不会代码如何搭建个人博客-少数派</a></li>
+<li><a href="https://blog.gd1214b.icu/post/F2_C5EVQh/">关于解决gridea无法同步的问题</a></li>
+<li><a href="https://sonatta.top/post/Ux6xKOeOx/">Gridea同步失败，谈谈我的解决方法</a></li>
+</ol>
 ]]></content>
     </entry>
 </feed>
