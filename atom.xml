@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaolangfeng.github.io</id>
     <title>小丰</title>
-    <updated>2022-02-24T14:40:46.132Z</updated>
+    <updated>2022-02-24T14:51:24.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaolangfeng.github.io"/>
     <link rel="self" href="https://xiaolangfeng.github.io/atom.xml"/>
@@ -22,15 +22,15 @@
 <figure data-type="image" tabindex="1"><img src="https://img.soogif.com/WbmPuGC2DigEbptq1VifWIxrYpZACamC.gif?scope=mdnice" alt="" loading="lazy"></figure>
 <p><em>前面把博客搭建好了,详细请查看 [Gridea+github+github desktop博客搭建指北](<a href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">Gridea+github+github desktop博客搭建指北 </a>) ，写文的时候发现少了点东西，没有图片没有灵魂。于是想起前面试过用PicGo+github搭建图床。在我完成了配置后，以为最复杂的步骤完成了，没想到接下来才到处都是坑。为了避免后来的同学踩坑，我把我的配置选择分享给大家。以下会提到我为什么选择Picgo+gitee配置图床，以及我在配置过程中都遇到哪些坑。</em></p>
 <h2 id="为什么选择picgo">为什么选择<a href="https://github.com/Molunerfinn/PicGo">PicGo</a></h2>
-<p>这纯属巧合，我看到的第一篇教程就是PicGo，下载之后发现界面美观简介，所以在没到不能解决的问题之前，我没想更换它。后来也证明它真的很好用，墙裂推荐。✅</p>
+<p>这纯属巧合，我看到的第一篇教程就是PicGo，下载之后发现界面美观简洁，所以除非遇到不能解决的问题，否则我没想更换它。事实也证明，它真的很好用，墙裂推荐。✅</p>
 <h2 id="为什么选择gitee码云">为什么选择<a href="https://gitee.com/">gitee(码云)</a></h2>
 <p>这个说来话长，在选择码云之前，我试过github，Coding。</p>
 <ul>
 <li>
-<p>先说github，其实最先就是github配置成功的。那为什么放弃呢？原因出在一个我意想不到的环节。就在我以为没啥问题的时候，在Gridea自带的编辑器和mdnice里拉取不到图床的图片，而在marktext(不得不说，marktext界面真好看)和Typora则可以正常拉取，这问题出现的让我摸不着头脑。后来经过多次尝试，最终将问题锁定在github，由于众所周知的原因，github在国内访问经常有问题。至于marktext和Typora为什么可以正常拉取github图床的图片,那大概是因为拉取技术原因，这里不作深究。</p>
+<p>先说github，其实最先就是用github配置成功的。那为什么放弃呢？原因出在一个我意想不到的环节。就当我以为没啥问题的时候，在Gridea自带的编辑器和mdnice里拉取不到图床的图片，而在marktext(不得不说，marktext界面真好看)和Typora则可以正常拉取，这问题出现得让我摸不着头脑。后来经过多次尝试，最终将问题锁定在github，由于众所周知的原因，github在国内访问缓慢甚至不能访问。至于marktext和Typora为什么可以正常拉取github图床的图片,那大概是因为图片拉取技术原因，这里不作深究。</p>
 </li>
 <li>
-<p>在发现github有问题之后，我想起我还注册了Coding，于是在网上找了Coding配置图床的教程，可惜，在最后的配置PicGo的时候，出现了“浏览器位置”项，不知道是要填什么信息，网上没有找到教程，又想mdnice不支持coding，遂过短放弃.</p>
+<p>在发现github有问题之后，我想起我还注册过Coding，于是在网上找了Coding配置图床的教程，可惜，在最后配置PicGo的时候，出现了“浏览器位置”项，不知道是要填什么信息，网上没有找到教程，又想mdnice不支持coding，遂果断放弃.</p>
 </li>
 <li>
 <p>于是采用通用的gitee(码云)，然后按照正常的配置过程，很快就配置好了。终于，可以开心流畅地写文了，这里建议想要配置自己图床的小伙伴直接选择PicGo+gitee。关于PicGo+gitee配置的图床，这里有一篇<a href="https://zhuanlan.zhihu.com/p/102594554">教程</a></p>
