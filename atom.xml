@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaolangfeng.github.io</id>
     <title>小丰</title>
-    <updated>2022-02-24T14:51:24.071Z</updated>
+    <updated>2022-03-13T15:25:39.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaolangfeng.github.io"/>
     <link rel="self" href="https://xiaolangfeng.github.io/atom.xml"/>
@@ -11,9 +11,26 @@
     <icon>https://xiaolangfeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 小丰</rights>
     <entry>
+        <title type="html"><![CDATA[ 存在即合理，相对的永远存在]]></title>
+        <id>https://xiaolangfeng.github.io/post/cun-zai-ji-he-li-xiang-dui-de-yong-yuan-cun-zai/</id>
+        <link href="https://xiaolangfeng.github.io/post/cun-zai-ji-he-li-xiang-dui-de-yong-yuan-cun-zai/">
+        </link>
+        <updated>2022-03-13T15:23:58.000Z</updated>
+        <content type="html"><![CDATA[<p><em>几个观点</em></p>
+<h3 id="房子现在还能买吗">房子现在还能买吗？</h3>
+<p><strong>紧急刚需能买，不是紧急刚需，建议等一等。</strong> ps：周末某央企地产宣讲，销售还在鼓吹现在行情只是一点“小跌”，现在合适的新楼盘入手非常值。好吧，听完都能知道销售自己没谱。房价不可能大涨了，紧急刚需建议多看几套，多做对比。前两年买房子投资的人估计现在欲哭无泪吧，特别三四线的房子。疫情当下，拿稳手里的钱，不要乱做投资，读书锻炼仍然是任何时候最可靠的个人投资。对了，周末的宣讲是地产甲方组织乙方开的，害，韭菜难找，一年比一年长得慢了。。。。<img src="https://img.soogif.com/AitRm0KFvbDVpAmG8nLeSxkeqJBZEWDd.gif?scope=mdnice" alt="" loading="lazy"></p>
+<h3 id="辣鸡人应对万能公式">辣鸡人应对万能公式</h3>
+<p><strong>不生气，不说情绪话+做好自己该做的事</strong> ps：辣鸡人哪里都有，辣鸡是相对的，辣鸡永远存在。不对辣鸡人讲道理，不动情绪。辣鸡人是提升修养的基石，可恨，但存在既合理，天然的磨刀石。</p>
+<h3 id="疫情反弹啥时候是个头">疫情反弹，啥时候是个头？</h3>
+<p><strong>未来人类可能要与新冠长期共存。</strong> ps：新冠到现在整整有两个年头了，国外的每天的感染数据都在疯狂增长，最近国内也有所反弹。疫情防控道阻且长，致敬白衣天使！俄乌战争俄罗斯发现了美国在乌克兰做的生化武器实验，美国政府的回应漏洞百出，也不敢接受调查。emmm，结合新冠初期美国的情况、反应以及整条疫情的时间线，要说新冠跟美国没关系，我是无法相信。生化武器这东西，就应该完全禁止，杀敌一千自损八百的东西，反人类……</p>
+<h3 id="如何高效处理信息流">如何高效处理信息流？</h3>
+<p><strong>处理信息流的第一步是屏蔽信息。</strong> ps：互联网时代，每天的生活离不开电子屏幕，繁杂的信息流充斥着我们宝贵的大脑。如何高效处理信息流，我们每天接触的90%的信息是没用的，高效处理信息流的第一步就是屏蔽信息，想清楚是否需要什么信息和资料，再去查阅即可。保持在信息流下的目标感。另外，人终归是大自然的产物，经常性接触大自然好处不要太多……<img src="https://gitee.com/A-ZFeng/blog-drawing-bed/raw/master/img/8791bbdb611ca2d21b9574bf805f54b.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PicGo+gitee（码云）搭建图床之神奇历程]]></title>
-        <id>https://xiaolangfeng.github.io/post/picgogiteema-yun-da-jian-tu-chuang-zhi-shen-qi-li-cheng/</id>
-        <link href="https://xiaolangfeng.github.io/post/picgogiteema-yun-da-jian-tu-chuang-zhi-shen-qi-li-cheng/">
+        <id>https://xiaolangfeng.github.io/post/FF/</id>
+        <link href="https://xiaolangfeng.github.io/post/FF/">
         </link>
         <updated>2022-02-24T14:38:46.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
