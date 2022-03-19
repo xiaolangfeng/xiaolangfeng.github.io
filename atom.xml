@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaolangfeng.github.io</id>
     <title>小丰</title>
-    <updated>2022-03-13T15:25:39.972Z</updated>
+    <updated>2022-03-19T14:14:12.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaolangfeng.github.io"/>
     <link rel="self" href="https://xiaolangfeng.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://xiaolangfeng.github.io/images/avatar.png</logo>
     <icon>https://xiaolangfeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 小丰</rights>
+    <entry>
+        <title type="html"><![CDATA[几点感悟]]></title>
+        <id>https://xiaolangfeng.github.io/post/ji-dian-gan-wu/</id>
+        <link href="https://xiaolangfeng.github.io/post/ji-dian-gan-wu/">
+        </link>
+        <updated>2022-03-19T14:13:38.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="兴趣真的很重要">兴趣真的很重要</h2>
+<p>不知道大家身边有没有那种同学或者朋友，就是凭借一项技能，考上大学或者以谋生计。其实能够支持他们学习一项技能的，大部分就是兴趣。兴趣在我们的生活中真的很重要，如果两个人学同一样东西，有兴趣的人学习效果往往比没兴趣但能坚持的人学习效果要好。当然，从某种意义上来说，有兴趣的人在感兴趣的事情上更能坚持下去，也就能产出相对好的效果。这一点相信偏科的同学是很有体会的。不止在学习上，在其他方面同理，如果想去做一件事情达到一定的效果，不妨先不要着急下手去做。可以先培养起兴趣，唤醒发自内心对事物的好奇在，相信结果不会让人失望。</p>
+<h2 id="很多所谓的难事只是我们还没养成去做的习惯">很多所谓的“难事”，只是我们还没养成去做的习惯</h2>
+<p>对于有的人来说，早起很难，早睡很难，每天运动也很难。但是实际上这些事情真的很难吗？想必不是，之所以觉得难，是因为我们没有养成去做的习惯。相对于吃饭上厕所，这些事情的反作用更慢一点，如果一周内不吃饭都不会饿，一个月内不上厕所都不影响，那大概每次吃饭和上厕所也会变成“难事”。正因为有的人在能做和不想做之间选择了不做，所以后面想改变就变“难”了，难在在这件事上突然要180度的改变，从习惯了晚睡晚起到早睡早起，从习惯 了从不运动到运动，在身心的抵触下，自然觉得“难”。所以对于很多难事，最好能提前布局，在能做与不做之间，选择去做，形成做的习惯，自然而然，它就不是难事。</p>
+<h2 id="一定要学会拒绝并敢于拒绝">一定要学会拒绝，并敢于拒绝</h2>
+<p>一定有人觉得拒绝很难，拒绝之后会让对方没面子，会孤立自己。我曾经也是这样想的，现在看来真是太单纯了。这个世界没了谁都照样转，不要觉得自己多么重要，要想对方就是问问，你答应或者拒绝，对方都会有B方案。在在意其他人的感受之前，请先尊重自己的感受。答应也好，拒绝也罢，对方只是要一个确定的回复。所以从一开始决定答应或者拒绝的时候，请坚持你的立场。最怕就是拒绝不坚定或者迟迟不给回复，对方劝两句你又改变立场了，这样只会让自己不舒服，对方甚至还会觉得你没有立场。所以，对于不想答应的事，可以试试果断拒绝，坚定立场。这相比无奈的答应和不坚定的立场，简直不要太爽。<br>
+<img src="https://gitee.com/A-ZFeng/blog-drawing-bed/raw/master/img/2193ab12204f9d06044f8617e17e252.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 存在即合理，相对的永远存在]]></title>
         <id>https://xiaolangfeng.github.io/post/cun-zai-ji-he-li-xiang-dui-de-yong-yuan-cun-zai/</id>
