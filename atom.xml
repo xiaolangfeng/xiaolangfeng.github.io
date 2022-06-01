@@ -1,124 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaolangfeng.github.io</id>
-    <title>小丰</title>
-    <updated>2022-03-19T14:14:12.609Z</updated>
+    <title>Gridea</title>
+    <updated>2022-06-01T17:26:27.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaolangfeng.github.io"/>
     <link rel="self" href="https://xiaolangfeng.github.io/atom.xml"/>
-    <subtitle>一步一个脚印</subtitle>
+    <subtitle>温故而知新</subtitle>
     <logo>https://xiaolangfeng.github.io/images/avatar.png</logo>
     <icon>https://xiaolangfeng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 小丰</rights>
+    <rights>All rights reserved 2022, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[几点感悟]]></title>
-        <id>https://xiaolangfeng.github.io/post/ji-dian-gan-wu/</id>
-        <link href="https://xiaolangfeng.github.io/post/ji-dian-gan-wu/">
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xiaolangfeng.github.io/post/hello-gridea/</id>
+        <link href="https://xiaolangfeng.github.io/post/hello-gridea/">
         </link>
-        <updated>2022-03-19T14:13:38.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="兴趣真的很重要">兴趣真的很重要</h2>
-<p>不知道大家身边有没有那种同学或者朋友，就是凭借一项技能，考上大学或者以谋生计。其实能够支持他们学习一项技能的，大部分就是兴趣。兴趣在我们的生活中真的很重要，如果两个人学同一样东西，有兴趣的人学习效果往往比没兴趣但能坚持的人学习效果要好。当然，从某种意义上来说，有兴趣的人在感兴趣的事情上更能坚持下去，也就能产出相对好的效果。这一点相信偏科的同学是很有体会的。不止在学习上，在其他方面同理，如果想去做一件事情达到一定的效果，不妨先不要着急下手去做。可以先培养起兴趣，唤醒发自内心对事物的好奇在，相信结果不会让人失望。</p>
-<h2 id="很多所谓的难事只是我们还没养成去做的习惯">很多所谓的“难事”，只是我们还没养成去做的习惯</h2>
-<p>对于有的人来说，早起很难，早睡很难，每天运动也很难。但是实际上这些事情真的很难吗？想必不是，之所以觉得难，是因为我们没有养成去做的习惯。相对于吃饭上厕所，这些事情的反作用更慢一点，如果一周内不吃饭都不会饿，一个月内不上厕所都不影响，那大概每次吃饭和上厕所也会变成“难事”。正因为有的人在能做和不想做之间选择了不做，所以后面想改变就变“难”了，难在在这件事上突然要180度的改变，从习惯了晚睡晚起到早睡早起，从习惯 了从不运动到运动，在身心的抵触下，自然觉得“难”。所以对于很多难事，最好能提前布局，在能做与不做之间，选择去做，形成做的习惯，自然而然，它就不是难事。</p>
-<h2 id="一定要学会拒绝并敢于拒绝">一定要学会拒绝，并敢于拒绝</h2>
-<p>一定有人觉得拒绝很难，拒绝之后会让对方没面子，会孤立自己。我曾经也是这样想的，现在看来真是太单纯了。这个世界没了谁都照样转，不要觉得自己多么重要，要想对方就是问问，你答应或者拒绝，对方都会有B方案。在在意其他人的感受之前，请先尊重自己的感受。答应也好，拒绝也罢，对方只是要一个确定的回复。所以从一开始决定答应或者拒绝的时候，请坚持你的立场。最怕就是拒绝不坚定或者迟迟不给回复，对方劝两句你又改变立场了，这样只会让自己不舒服，对方甚至还会觉得你没有立场。所以，对于不想答应的事，可以试试果断拒绝，坚定立场。这相比无奈的答应和不坚定的立场，简直不要太爽。<br>
-<img src="https://gitee.com/A-ZFeng/blog-drawing-bed/raw/master/img/2193ab12204f9d06044f8617e17e252.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 存在即合理，相对的永远存在]]></title>
-        <id>https://xiaolangfeng.github.io/post/cun-zai-ji-he-li-xiang-dui-de-yong-yuan-cun-zai/</id>
-        <link href="https://xiaolangfeng.github.io/post/cun-zai-ji-he-li-xiang-dui-de-yong-yuan-cun-zai/">
-        </link>
-        <updated>2022-03-13T15:23:58.000Z</updated>
-        <content type="html"><![CDATA[<p><em>几个观点</em></p>
-<h3 id="房子现在还能买吗">房子现在还能买吗？</h3>
-<p><strong>紧急刚需能买，不是紧急刚需，建议等一等。</strong> ps：周末某央企地产宣讲，销售还在鼓吹现在行情只是一点“小跌”，现在合适的新楼盘入手非常值。好吧，听完都能知道销售自己没谱。房价不可能大涨了，紧急刚需建议多看几套，多做对比。前两年买房子投资的人估计现在欲哭无泪吧，特别三四线的房子。疫情当下，拿稳手里的钱，不要乱做投资，读书锻炼仍然是任何时候最可靠的个人投资。对了，周末的宣讲是地产甲方组织乙方开的，害，韭菜难找，一年比一年长得慢了。。。。<img src="https://img.soogif.com/AitRm0KFvbDVpAmG8nLeSxkeqJBZEWDd.gif?scope=mdnice" alt="" loading="lazy"></p>
-<h3 id="辣鸡人应对万能公式">辣鸡人应对万能公式</h3>
-<p><strong>不生气，不说情绪话+做好自己该做的事</strong> ps：辣鸡人哪里都有，辣鸡是相对的，辣鸡永远存在。不对辣鸡人讲道理，不动情绪。辣鸡人是提升修养的基石，可恨，但存在既合理，天然的磨刀石。</p>
-<h3 id="疫情反弹啥时候是个头">疫情反弹，啥时候是个头？</h3>
-<p><strong>未来人类可能要与新冠长期共存。</strong> ps：新冠到现在整整有两个年头了，国外的每天的感染数据都在疯狂增长，最近国内也有所反弹。疫情防控道阻且长，致敬白衣天使！俄乌战争俄罗斯发现了美国在乌克兰做的生化武器实验，美国政府的回应漏洞百出，也不敢接受调查。emmm，结合新冠初期美国的情况、反应以及整条疫情的时间线，要说新冠跟美国没关系，我是无法相信。生化武器这东西，就应该完全禁止，杀敌一千自损八百的东西，反人类……</p>
-<h3 id="如何高效处理信息流">如何高效处理信息流？</h3>
-<p><strong>处理信息流的第一步是屏蔽信息。</strong> ps：互联网时代，每天的生活离不开电子屏幕，繁杂的信息流充斥着我们宝贵的大脑。如何高效处理信息流，我们每天接触的90%的信息是没用的，高效处理信息流的第一步就是屏蔽信息，想清楚是否需要什么信息和资料，再去查阅即可。保持在信息流下的目标感。另外，人终归是大自然的产物，经常性接触大自然好处不要太多……<img src="https://gitee.com/A-ZFeng/blog-drawing-bed/raw/master/img/8791bbdb611ca2d21b9574bf805f54b.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PicGo+gitee（码云）搭建图床之神奇历程]]></title>
-        <id>https://xiaolangfeng.github.io/post/FF/</id>
-        <link href="https://xiaolangfeng.github.io/post/FF/">
-        </link>
-        <updated>2022-02-24T14:38:46.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>要么不做，要么到位。——某不知名靓仔! 😍</p>
-</blockquote>
-<figure data-type="image" tabindex="1"><img src="https://img.soogif.com/WbmPuGC2DigEbptq1VifWIxrYpZACamC.gif?scope=mdnice" alt="" loading="lazy"></figure>
-<p><em>前面把博客搭建好了,详细请查看 [Gridea+github+github desktop博客搭建指北](<a href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">Gridea+github+github desktop博客搭建指北 </a>) ，写文的时候发现少了点东西，没有图片没有灵魂。于是想起前面试过用PicGo+github搭建图床。在我完成了配置后，以为最复杂的步骤完成了，没想到接下来才到处都是坑。为了避免后来的同学踩坑，我把我的配置选择分享给大家。以下会提到我为什么选择Picgo+gitee配置图床，以及我在配置过程中都遇到哪些坑。</em></p>
-<h2 id="为什么选择picgo">为什么选择<a href="https://github.com/Molunerfinn/PicGo">PicGo</a></h2>
-<p>这纯属巧合，我看到的第一篇教程就是PicGo，下载之后发现界面美观简洁，所以除非遇到不能解决的问题，否则我没想更换它。事实也证明，它真的很好用，墙裂推荐。✅</p>
-<h2 id="为什么选择gitee码云">为什么选择<a href="https://gitee.com/">gitee(码云)</a></h2>
-<p>这个说来话长，在选择码云之前，我试过github，Coding。</p>
-<ul>
-<li>
-<p>先说github，其实最先就是用github配置成功的。那为什么放弃呢？原因出在一个我意想不到的环节。就当我以为没啥问题的时候，在Gridea自带的编辑器和mdnice里拉取不到图床的图片，而在marktext(不得不说，marktext界面真好看)和Typora则可以正常拉取，这问题出现得让我摸不着头脑。后来经过多次尝试，最终将问题锁定在github，由于众所周知的原因，github在国内访问缓慢甚至不能访问。至于marktext和Typora为什么可以正常拉取github图床的图片,那大概是因为图片拉取技术原因，这里不作深究。</p>
-</li>
-<li>
-<p>在发现github有问题之后，我想起我还注册过Coding，于是在网上找了Coding配置图床的教程，可惜，在最后配置PicGo的时候，出现了“浏览器位置”项，不知道是要填什么信息，网上没有找到教程，又想mdnice不支持coding，遂果断放弃.</p>
-</li>
-<li>
-<p>于是采用通用的gitee(码云)，然后按照正常的配置过程，很快就配置好了。终于，可以开心流畅地写文了，这里建议想要配置自己图床的小伙伴直接选择PicGo+gitee。关于PicGo+gitee配置的图床，这里有一篇<a href="https://zhuanlan.zhihu.com/p/102594554">教程</a></p>
-</li>
-</ul>
-<h2 id="配置图床过程中你可能遇到的问题">配置图床过程中你可能遇到的问题❓</h2>
-<ul>
-<li>
-<p>PicGo中没有gitee图床可选。(解决办法：这个已经有大佬开发出gitee插件，直接在PicGo插件设置里面下载，详见上面教程连接)</p>
-</li>
-<li>
-<p>在PicGo中填完配置信息后不能上传图片(解决办法：这个可能是填写信息不对，仓库名，秘钥等仔细检查一遍)</p>
-</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gridea+github+github desktop博客搭建指北]]></title>
-        <id>https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/</id>
-        <link href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">
-        </link>
-        <updated>2022-02-18T09:32:36.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>如果说语言的魅力与他人对话，那么文字魅力，就是倾听自己的声音！</p>
-</blockquote>
-<p><em>在开始写第一篇博客之前，请允许我简单介绍一下关于我的博客。第一次产生搭建个人博客的想法的时候是在大学，在对博客有了初步的了解之后，觉得必须要拥有自己的一个博客，用来在充斥着带节奏，蹭热点的信息流社会保留自己的一点思考，以及，记录个人的成长和技术积累。在搭建个人博客过程中，遇到许多坑，为避免有兴趣的同学掉坑，现把我的搭建方法分享给大家。</em><img src="https://xiaolangfeng.github.io/post-images/1645262493716.jpg" alt="" loading="lazy"></p>
-<h2 id="why-创建博客"><strong>why 创建博客</strong></h2>
-<ol>
-<li>在博客的载体，用文字的方式，记录自己的一点思考和成长。And,满足内心小小的极客精神。</li>
-<li>写一些技术文章，共享资源。</li>
-</ol>
-<h2 id="how-创建博客"><strong>How 创建博客</strong></h2>
-<ol>
-<li>步骤一 准备工具（我采用的是Gridea+github+github desktop）</li>
-</ol>
-<ul>
-<li>本地安装<a href="https://gridea.dev/">Gridea</a> 😀</li>
-<li>注册一个<a href="https://github.com/">GitHub</a>账号,创建新的仓库和token🔑</li>
-</ul>
-<ol start="2">
-<li>步骤二  配置Gridea<br>
-网上的教程有很多，这里不赘述，详见<a href="https://sspai.com/post/57164">Gridea本地配置</a></li>
-</ol>
-<h3 id="下载安装github-desktop">下载安装github desktop</h3>
-<ul>
-<li>👉 <a href="https://desktop.github.com/">github desktop下载地址</a></li>
-<li>👉<a href="https://docs.github.com/cn/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop">github desktop使用教程</a></li>
-</ul>
-<h2 id="搭建过程中你可能会遇到的关键问题"><strong>搭建过程中你可能会遇到的关键问题</strong>⁉</h2>
-<p>gridea无法同步的问题，<a href="https://blog.gd1214b.icu/post/F2_C5EVQh/">解决方法</a></p>
-<h2 id="关联阅读"><strong>关联阅读</strong></h2>
-<ol>
-<li><a href="https://sspai.com/post/57164">不会代码如何搭建个人博客-少数派</a></li>
-<li><a href="https://blog.gd1214b.icu/post/F2_C5EVQh/">关于解决gridea无法同步的问题</a></li>
-<li><a href="https://sonatta.top/post/Ux6xKOeOx/">Gridea同步失败，谈谈我的解决方法</a></li>
-</ol>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
