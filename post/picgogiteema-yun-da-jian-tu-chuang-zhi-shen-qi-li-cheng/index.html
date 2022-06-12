@@ -2,36 +2,36 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>PicGo+gitee（码云）搭建图床之神奇历程 | 小丰</title>
-<link rel="shortcut icon" href="https://xiaolangfeng.github.io/favicon.ico?v=1647699245760">
+<title># PicGo+gitee（码云）搭建图床之神奇历程 | Gridea</title>
+<link rel="shortcut icon" href="https://xiaolangfeng.github.io/favicon.ico?v=1655040805595">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://xiaolangfeng.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="PicGo+gitee（码云）搭建图床之神奇历程 | 小丰 - Atom Feed" href="https://xiaolangfeng.github.io/atom.xml">
+<link rel="alternate" type="application/atom+xml" title="# PicGo+gitee（码云）搭建图床之神奇历程 | Gridea - Atom Feed" href="https://xiaolangfeng.github.io/atom.xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
     <meta name="description" content="
-要么不做，要么到位。——某不知名靓仔! 😍
+要么不做，要么到位。——某不知名靓仔!
 
 
-前面把博客搭建好了,详细请查看 [Gridea+github+github desktop博客搭建指北](Gridea+github+github desktop博客搭建指北 ) ，写文的..." />
+前面把博客搭建好了,详细请查看 [Gridea+github+github desktop博客搭建指北](Gridea+github+github desktop博客搭建指北 ) ，写文的时候发..." />
     <meta name="keywords" content="" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
   </head>
   <body>
     <div class="main">
       <div class="main-content">
         <div class="site-header">
   <a href="https://xiaolangfeng.github.io">
-  <img class="avatar" src="https://xiaolangfeng.github.io/images/avatar.png?v=1647699245760" alt="">
+  <img class="avatar" src="https://xiaolangfeng.github.io/images/avatar.png?v=1655040805595" alt="">
   </a>
   <h1 class="site-title">
-    小丰
+    Gridea
   </h1>
   <p class="site-description">
-    一步一个脚印
+    温故而知新
   </p>
   <div class="menu-container">
     
@@ -78,11 +78,11 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              PicGo+gitee（码云）搭建图床之神奇历程
+              # PicGo+gitee（码云）搭建图床之神奇历程
             </h2>
             <div class="post-info">
               <span>
-                2022-02-24
+                2022-06-12
               </span>
               <span>
                 3 min read
@@ -91,16 +91,17 @@
             </div>
             
             <div class="post-content-wrapper">
-              <div class="post-content">
+              <div class="post-content" v-pre>
                 <blockquote>
-<p>要么不做，要么到位。——某不知名靓仔! 😍</p>
+<p>要么不做，要么到位。——某不知名靓仔!</p>
 </blockquote>
 <figure data-type="image" tabindex="1"><img src="https://img.soogif.com/WbmPuGC2DigEbptq1VifWIxrYpZACamC.gif?scope=mdnice" alt="" loading="lazy"></figure>
 <p><em>前面把博客搭建好了,详细请查看 [Gridea+github+github desktop博客搭建指北](<a href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">Gridea+github+github desktop博客搭建指北 </a>) ，写文的时候发现少了点东西，没有图片没有灵魂。于是想起前面试过用PicGo+github搭建图床。在我完成了配置后，以为最复杂的步骤完成了，没想到接下来才到处都是坑。为了避免后来的同学踩坑，我把我的配置选择分享给大家。以下会提到我为什么选择Picgo+gitee配置图床，以及我在配置过程中都遇到哪些坑。</em></p>
 <h2 id="为什么选择picgo">为什么选择<a href="https://github.com/Molunerfinn/PicGo">PicGo</a></h2>
 <p>这纯属巧合，我看到的第一篇教程就是PicGo，下载之后发现界面美观简洁，所以除非遇到不能解决的问题，否则我没想更换它。事实也证明，它真的很好用，墙裂推荐。✅</p>
 <h2 id="为什么选择gitee码云">为什么选择<a href="https://gitee.com/">gitee(码云)</a></h2>
-<p>这个说来话长，在选择码云之前，我试过github，Coding。</p>
+<p><img src="https://gitee.com/A-ZFeng/blog-drawing-bed/raw/master/img/%E9%99%88%E6%B3%BD%E4%B8%B0%E7%AD%BE%E5%90%8D.png" alt="" loading="lazy"><br>
+这个说来话长，在选择码云之前，我试过github，Coding。</p>
 <ul>
 <li>
 <p>先说github，其实最先就是用github配置成功的。那为什么放弃呢？原因出在一个我意想不到的环节。就当我以为没啥问题的时候，在Gridea自带的编辑器和mdnice里拉取不到图床的图片，而在marktext(不得不说，marktext界面真好看)和Typora则可以正常拉取，这问题出现得让我摸不着头脑。后来经过多次尝试，最终将问题锁定在github，由于众所周知的原因，github在国内访问缓慢甚至不能访问。至于marktext和Typora为什么可以正常拉取github图床的图片,那大概是因为图片拉取技术原因，这里不作深究。</p>
@@ -142,9 +143,9 @@
         
           <div class="next-post">
             <div class="next">下一篇</div>
-            <a href="https://xiaolangfeng.github.io/post/zhong-yu-kuo-yi-liao/">
+            <a href="https://xiaolangfeng.github.io/post/61/">
               <h3 class="post-title">
-                Gridea+github+github desktop博客搭建指北
+                61
               </h3>
             </a>
           </div>
